@@ -21,3 +21,13 @@ See [Gauteweb/aimonitor](https://github.com/Gauteweb/aimonitor#ai-monitor-for-mi
 brew install gauteweb/tap/aimonitor-mistral-vibe
 open "$(brew --prefix aimonitor-mistral-vibe)/AI Monitor for Mistral Vibe.app"
 ```
+
+## Brushtastic
+
+macOS menu bar app for drawing temporary, fading annotations over the whole screen — press ⌃⌥D and draw.
+See [Gauteweb/Brushtastic](https://github.com/Gauteweb/Brushtastic) for details.
+
+```sh
+brew install gauteweb/tap/brushtastic
+open "$(brew --prefix brushtastic)/Brushtastic.app"
+```
