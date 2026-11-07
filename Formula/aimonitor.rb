@@ -1,8 +1,8 @@
 class Aimonitor < Formula
   desc "Menu bar app showing Claude session and weekly usage (unofficial)"
   homepage "https://github.com/Gauteweb/aimonitor"
-  url "https://github.com/Gauteweb/aimonitor/archive/refs/tags/v1.2.1.tar.gz"
-  sha256 "0660dd1251f77b075021045196145791b8635edddc022a53884ce15bf4ff1176"
+  url "https://github.com/Gauteweb/aimonitor/archive/refs/tags/v1.2.2.tar.gz"
+  sha256 "7b16ea1717c885e67ce37dfeba387862cc4168fc705cbc957f661836c443d17f"
   license "MIT"
 
   depends_on macos: :ventura
