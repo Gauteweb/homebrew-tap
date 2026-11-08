@@ -31,3 +31,13 @@ See [Gauteweb/Brushtastic](https://github.com/Gauteweb/Brushtastic) for details.
 brew install gauteweb/tap/brushtastic
 open "$(brew --prefix brushtastic)/Brushtastic.app"
 ```
+
+## FediMactastic
+
+macOS client for the Fediverse (Pleroma, Akkoma, GoToSocial and Mastodon) — the Mac edition of
+[Feditastic](https://github.com/Gauteweb/Feditastic). See [Gauteweb/FediMactastic](https://github.com/Gauteweb/FediMactastic) for details.
+
+```sh
+brew install gauteweb/tap/fedimactastic
+open "$(brew --prefix fedimactastic)/FediMactastic.app"
+```
