@@ -1,8 +1,8 @@
 class Fedimactastic < Formula
   desc "Fediverse client for Pleroma, Akkoma, GoToSocial and Mastodon (Mac edition of Feditastic)"
   homepage "https://github.com/Gauteweb/FediMactastic"
-  url "https://github.com/Gauteweb/FediMactastic/archive/refs/tags/v1.0.5.tar.gz"
-  sha256 "bd00d897ced09a901cb99f034f2d968c2726ec2a5d6cde81b42beb5f31d56799"
+  url "https://github.com/Gauteweb/FediMactastic/archive/refs/tags/v1.0.6.tar.gz"
+  sha256 "66aa89fff65f289459751e0ba8f6f17160790e91cb5b1206719d12b86647aee9"
   license "GPL-3.0-or-later"
 
   depends_on macos: :sonoma
