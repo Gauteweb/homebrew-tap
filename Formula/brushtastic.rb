@@ -1,8 +1,8 @@
 class Brushtastic < Formula
   desc "Menu bar app for drawing temporary, fading annotations over the whole screen"
   homepage "https://github.com/Gauteweb/Brushtastic"
-  url "https://github.com/Gauteweb/Brushtastic/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "fac4702a38b4f83026fb67cd4413cb9e1cc31b59d1aac20c33eb92468903949b"
+  url "https://github.com/Gauteweb/Brushtastic/archive/refs/tags/v1.1.1.tar.gz"
+  sha256 "cfb3b8a328607b5f9513c56a5eb77c4e76ec115db92470fc74f0fa514c1733d4"
   license "MIT"
 
   depends_on macos: :ventura
